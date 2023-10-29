@@ -1,11 +1,10 @@
 import './App.css';
-import Clock from './components/Clock';
-
+import MyClock from "./components/MyClock"
 
 function App() {
   return (
     <div>
-    <Clock />
+    <MyClock />
     </div>
 
   )
